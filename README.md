@@ -19,7 +19,9 @@ CHANGELOG
 V 1.0:
 
 -First ever version of EZNotepad that is going to be released
+
 -Complete remake of a private version of EZNotepad
+
 -Added Drag and Drop
 
 IMAGE OF THE GUI
