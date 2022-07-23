@@ -27,4 +27,4 @@ V 1.0:
 IMAGE OF THE GUI
 ================
 
-![alt text](https://i.imgur.com/66WCw1Q.png)
+![alt text]([https://i.imgur.com/66WCw1Q.png](https://i.ibb.co/Qd691Ns/Screenshot-2022-03-28-170053.jpg))
